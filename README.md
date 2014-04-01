@@ -6,9 +6,10 @@ Wordpress Bootstrap Kosongan
 Theme ini sekedar contoh yang di buat singkat 30 menit.
 
 Credit : 
-1. http://getbootstrap.com/
-2. https://github.com/twittem/wp-bootstrap-navwalker
-3. http://www.lagimales.com
-
+<ol>
+<li>http://getbootstrap.com/</li>
+<li>https://github.com/twittem/wp-bootstrap-navwalker</li></li>
+<li>http://www.lagimales.com</li>
+</ol>
 
 Hadie Danker
